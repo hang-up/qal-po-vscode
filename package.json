@@ -6,6 +6,8 @@
 	"engines": {
 		"vscode": "^1.52.0"
 	},
+	"publisher": "hang-up",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:hang-up/qal-po-vscode.git"
