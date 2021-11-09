@@ -7,7 +7,7 @@ In other words, suggest the right keys wrapped inside `literals`, `elements` and
 
 Suggest wrapped page objects keys when the name of a page object is identified.
 
-\!\[Autocomplete\]\(images/suggestion.png\)
+![Autocomplete](https://github.com/hang-up/qal-po-vscode/blob/master/images/suggestion.png)
 
 ## Requirements
 
